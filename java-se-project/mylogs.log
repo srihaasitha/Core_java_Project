@@ -1,0 +1,25 @@
+
+[INFO ] 2022-09-23 10:04:11.021 [main]  - EmployeeDetails [firstName=hhash, lastName=ggr, address=fgr, emailAddress=fd@gmail.com, phoneNumber=1234554321, dateOfBirth=2001-11-11, weddingDate=2010-11-11]
+[INFO ] 2022-09-23 10:06:21.572 [main]  - FirstName:hhash Email:fd@gmail.com
+[ERROR] 2022-09-23 16:43:55.093 [main]  - No employee with first Name:sri haasitha and Phone Number 7654376543
+[ERROR] 2022-09-23 16:44:27.960 [main]  - No employee with first Name:sri haasitha and Phone Number 7654376543
+[ERROR] 2022-09-23 16:53:20.264 [main]  - No employee with first Name:sri haasitha and Phone Number 7654376543
+[ERROR] 2022-09-23 16:53:34.311 [main]  - Employee Not deleted
+[INFO ] 2022-09-23 16:58:39.246 [main]  - EmployeeDetails [firstName=rohit tdatd, lastName=fsydw, address=fdywfd, emailAddress=fydwfd, phoneNumber=90823627830, dateOfBirth=2000-09-20, weddingDate=2022-09-22]
+[INFO ] 2022-09-23 16:59:11.043 [main]  - EmployeeDetails [firstName=rohit tdatd, lastName=fsydw, address=fdywfd, emailAddress=fydwfd, phoneNumber=90823627830, dateOfBirth=2000-09-20, weddingDate=2022-09-22]
+[INFO ] 2022-09-23 17:07:24.026 [main]  - FirstName:hhash Email:fd@gmail.com
+[INFO ] 2022-09-23 17:11:27.650 [main]  - FirstName:rohit tdatd PhoneNumber:90823627830
+[INFO ] 2022-09-23 17:11:27.653 [main]  - FirstName:hhash PhoneNumber:1234554321
+[INFO ] 2022-09-23 17:11:27.653 [main]  - FirstName:haasitha PhoneNumber:7654376543
+[INFO ] 2022-09-23 17:14:34.980 [main]  - FirstName:rohit tdatd PhoneNumber:90823627830
+[INFO ] 2022-09-23 17:14:34.984 [main]  - FirstName:hhash PhoneNumber:1234554321
+[INFO ] 2022-09-23 17:14:34.984 [main]  - FirstName:haasitha PhoneNumber:7654376543
+[INFO ] 2022-09-23 17:17:41.663 [main]  - EmployeeDetails [firstName=nitish, lastName=dubey, address=nd@gmail.com, emailAddress=nd@gmail.com, phoneNumber=5432543211, dateOfBirth=2001-02-11, weddingDate=2010-02-11]
+[INFO ] 2022-09-23 17:17:48.733 [main]  - FirstName:rohit tdatd PhoneNumber:90823627830
+[INFO ] 2022-09-23 17:17:48.733 [main]  - FirstName:nitish PhoneNumber:5432543211
+[INFO ] 2022-09-23 17:17:48.733 [main]  - FirstName:hhash PhoneNumber:1234554321
+[INFO ] 2022-09-23 17:17:48.733 [main]  - FirstName:haasitha PhoneNumber:7654376543
+[INFO ] 2022-09-23 17:18:08.956 [main]  - Employee addednitish
+[INFO ] 2022-09-23 17:18:55.703 [main]  - Employee addedhhash
+[INFO ] 2022-09-23 17:19:30.879 [main]  - FirstName:nitish Email:ndd@gmail.com
+[INFO ] 2022-09-23 17:19:42.298 [main]  - FirstName:nitish PhoneNumber:5678956789
